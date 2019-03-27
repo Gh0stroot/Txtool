@@ -36,5 +36,4 @@ or you have another error, please submit a new issue.
 ![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_b.png)  
 ![Screenshot](https://raw.githubusercontent.com/kuburan/txtool/master/screenshot/Screenshot_c.png)  
   
-# Contact  
-kuburan000@protonmail.ch  
+
